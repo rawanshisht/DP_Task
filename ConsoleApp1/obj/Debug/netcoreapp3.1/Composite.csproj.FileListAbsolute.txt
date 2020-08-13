@@ -1,0 +1,13 @@
+D:\Design Patterns\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Composite.exe
+D:\Design Patterns\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Composite.deps.json
+D:\Design Patterns\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Composite.runtimeconfig.json
+D:\Design Patterns\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Composite.runtimeconfig.dev.json
+D:\Design Patterns\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Composite.dll
+D:\Design Patterns\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Composite.pdb
+D:\Design Patterns\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Composite.csprojAssemblyReference.cache
+D:\Design Patterns\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Composite.AssemblyInfoInputs.cache
+D:\Design Patterns\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Composite.AssemblyInfo.cs
+D:\Design Patterns\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Composite.csproj.CoreCompileInputs.cache
+D:\Design Patterns\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Composite.dll
+D:\Design Patterns\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Composite.pdb
+D:\Design Patterns\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Composite.genruntimeconfig.cache
